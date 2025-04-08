@@ -17,6 +17,8 @@ Rule 4 - if straight of 5 cards or more, sum their number and multiply by 5 and 
 
 Rule 5 - if there are 5 Cards or more with the same suit, each card's point multiplied by 6 and adds to point 
 
+Rule 6 - if any card is not suitable for any rules their value will be added to total point.
+
 POINTS:
 -------
 
