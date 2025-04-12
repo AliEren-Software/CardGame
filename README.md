@@ -2,7 +2,7 @@
 
 How to play?
 -----------
-Player 1 start, after if he/she wants to change their card/s click the button that which card should change and must click change button. After that, player 2 should chose which card/s he/she wants to change and click change button. Finally the cards middle of the table will turned on and one of player wins the round. Next round player 2 will starts and same player 2 will selects card/s if he/she wants change card and click change button and so on. Who win 3 round that player win the game. 
+Player 1 starts, after if he/she wants to change their card/s click the button that which card should change and must click change button. After that, player 2 should chose which card/s he/she wants to change and click change button. Finally the cards middle of the table will turned on and one of player wins the round. Next round player 2 will starts and same player 2 will selects card/s if he/she wants change card and click change button and so on. Who win 3 round that player win the game. 
 
 
 RULES:
